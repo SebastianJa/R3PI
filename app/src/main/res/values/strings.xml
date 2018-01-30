@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">R3PI</string>
+    <string name="title_book_detail">Book Details</string>
+    <string name="authors">Authors: N/A</string>
+    <string name="publisher">Publisher: N/A</string>
+    <string name="published_date">Published: N/A</string>
+    <string name="description">Description</string>
+    <string name="details">Details</string>
+
+</resources>
